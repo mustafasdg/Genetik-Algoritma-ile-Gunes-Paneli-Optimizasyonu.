@@ -82,6 +82,7 @@ Okul Numarası: 2212729001
 GitHub Repo: [https://github.com/mustafasdg/Genetik-Algoritma-ile-Gunes-Paneli-Optimizasyonu.](https://github.com/mustafasdg/Genetik-Algoritma-ile-Gunes-Paneli-Optimizasyonu.)
 
 ## Kurulum ve Çalıştırma
+
 1 - .ipynb dosyasını Google Colab veya Jupyter Notebook ile açın.
 
 2 - Tüm hücreleri sırasıyla çalıştırın.
